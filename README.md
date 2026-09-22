@@ -1,45 +1,90 @@
-# Hi, I'm Nafis Shahriar
+<div align="center">
 
-**Computer Science & Engineering undergraduate at CUET**  
-*Backend Developer | Competitive Programmer*
+# Nafis Shahriar
+
+### Backend Developer · Competitive Programmer
+
+**Computer Science & Engineering Undergraduate · CUET**
+
+Building solid backends. Solving challenging problems.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/nafis-shahriar-687402287/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Himalaya_)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himalaya-pahar)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nafisshahriar82@gmail.com)
+
+</div>
 
 ---
 
-* **Currently exploring:** System Design, Scalable Backend Architectures.
-* **Passionate about:** Competitive Programming, API Development, and building solid scalable systems.
-* **Competitive Programming:** Pupil at Codeforces (Handle: [Himalaya_](https://codeforces.com/profile/Himalaya_)).
-* **Reach me at:** [nafisshahriar82@gmail.com](mailto:nafisshahriar82@gmail.com)
+### About Me
 
-### Connect with me
+I'm a Computer Science & Engineering undergraduate at **CUET**, passionate about **competitive programming, API development, and building reliable, scalable systems**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nafis-shahriar-687402287/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Himalaya_)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/himalaya-pahar)
-
----
+- **Current focus:** System design and scalable backend architectures.
+- **Competitive programming:** Codeforces **Pupil** — [Himalaya_](https://codeforces.com/profile/Himalaya_).
+- **Mobile development:** React Native and Expo.
+- **Contact:** [nafisshahriar82@gmail.com](mailto:nafisshahriar82@gmail.com)
 
 ### Tech Stack
 
-**Programming Languages**  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
+**Languages**
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**Backend, Web & Frameworks**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+**Backend & web**
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+**Mobile**
 
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-**Tools & Platforms**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Tools & platforms**
+
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
 
 ### Interests & Focus Areas
 
-* **Backend & System Design:** Passionate about architecting robust APIs, designing databases, and building highly scalable server-side systems.
-* **Competitive Programming & Algorithms:** Consistently solving problems and optimizing logic.
-* **Full-Stack Web Development:** Bridging the gap between powerful backends and clean user interfaces.
-* **Artificial Intelligence:** Exploring Machine Learning, Deep Learning, and building applications powered by LLMs.
+| Area | Focus |
+| :--- | :--- |
+| **Backend & System Design** | Robust APIs, database design, and scalable server-side systems |
+| **Competitive Programming** | Algorithms, data structures, and efficient problem-solving |
+| **Full-Stack Development** | Connecting powerful backends with clean user interfaces |
+| **Artificial Intelligence** | Machine learning, deep learning, and LLM-powered applications |
+
+---
+
+<div align="center">
+
+**Let's connect over code, algorithms, and systems.**
+
+[LinkedIn](https://www.linkedin.com/in/nafis-shahriar-687402287/) &nbsp;·&nbsp; [Codeforces](https://codeforces.com/profile/Himalaya_) &nbsp;·&nbsp; [Email](mailto:nafisshahriar82@gmail.com)
+
+</div>
