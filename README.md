@@ -58,6 +58,14 @@ I'm a Computer Science & Engineering undergraduate at **CUET**, passionate about
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
+**AI & Machine Learning**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-ff4f00?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-4B0082?style=for-the-badge)
+
 **Tools & platforms**
 
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black)
@@ -67,15 +75,6 @@ I'm a Computer Science & Engineering undergraduate at **CUET**, passionate about
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-**AI & Machine Learning**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-ff4f00?style=for-the-badge)
-![XGBoost](https://img.shields.io/badge/XGBoost-1b9e77?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-4B0082?style=for-the-badge)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ---
