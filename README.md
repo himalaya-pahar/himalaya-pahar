@@ -68,44 +68,15 @@ I'm a Computer Science & Engineering undergraduate at **CUET**, passionate about
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
----
+**AI & Machine Learning**
 
-### AI & Machine Learning Expertise
-
-- **Applied Machine Learning:** <br/>
-  ![Binary Classification](https://img.shields.io/badge/Binary_Classification-00599C?style=for-the-badge)
-  ![URL-Based Phishing Detection](https://img.shields.io/badge/URL--Based_Phishing_Detection-00599C?style=for-the-badge)
-  ![Ensemble Learning](https://img.shields.io/badge/Ensemble_Learning-00599C?style=for-the-badge)
-
-- **Models & Algorithms:** <br/>
-  ![LightGBM](https://img.shields.io/badge/LightGBM-ff4f00?style=for-the-badge)
-  ![XGBoost](https://img.shields.io/badge/XGBoost-1b9e77?style=for-the-badge)
-  ![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge)
-  ![Extra Trees](https://img.shields.io/badge/Extra_Trees-228B22?style=for-the-badge)
-  ![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-3178C6?style=for-the-badge)
-
-- **NLP & Feature Engineering:** <br/>
-  ![TF-IDF](https://img.shields.io/badge/Character--Level_TF--IDF-4B0082?style=for-the-badge)
-  ![Lexical Feature Extraction](https://img.shields.io/badge/Lexical_Feature_Extraction-4B0082?style=for-the-badge)
-  ![URL Text Analysis](https://img.shields.io/badge/URL_Text_Analysis-4B0082?style=for-the-badge)
-
-- **Evaluation & Validation:** <br/>
-  ![Nested/Grouped CV](https://img.shields.io/badge/Nested%2FGrouped_Cross--Validation-E34F26?style=for-the-badge)
-  ![ROC-AUC](https://img.shields.io/badge/ROC--AUC-E34F26?style=for-the-badge)
-  ![PR-AUC](https://img.shields.io/badge/PR--AUC-E34F26?style=for-the-badge)
-  ![Leakage-Controlled Evaluation](https://img.shields.io/badge/Leakage--Controlled_Evaluation-E34F26?style=for-the-badge)
-  ![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter_Tuning-E34F26?style=for-the-badge)
-
-- **Explainability & Statistical Analysis:** <br/>
-  ![TreeSHAP](https://img.shields.io/badge/TreeSHAP-800080?style=for-the-badge)
-  ![McNemar Test](https://img.shields.io/badge/McNemar_Test_(Holm_Correction)-800080?style=for-the-badge)
-  ![Error Analysis](https://img.shields.io/badge/Error_&_Cost_Analysis-800080?style=for-the-badge)
-
-- **Data Stack:** <br/>
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-ff4f00?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-1b9e77?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-4B0082?style=for-the-badge)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ---
 
