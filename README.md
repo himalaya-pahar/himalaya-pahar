@@ -19,7 +19,7 @@ Building solid backends. Solving challenging problems.
 
 ### About Me
 
-I'm a Computer Science & Engineering undergraduate at **CUET**, passionate about **competitive programming, API development, and building reliable, scalable systems**.
+I'm a Computer Science & Engineering undergraduate at **CUET**, passionate about **competitive programming, REST and GraphQL API development, and building reliable, scalable systems**.
 
 - **Current focus:** System design and scalable backend architectures.
 - **Competitive programming:** Codeforces **Pupil** — [Himalaya_](https://codeforces.com/profile/Himalaya_).
@@ -43,6 +43,8 @@ I'm a Computer Science & Engineering undergraduate at **CUET**, passionate about
 **Backend & web**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
